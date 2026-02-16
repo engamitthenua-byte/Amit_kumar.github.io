@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🌟 Personal Portfolio Website
 
 A modern, responsive, and professional personal portfolio website built with pure HTML5, CSS3, and Vanilla JavaScript. Perfect for web developers, software engineers, and IT professionals.
@@ -247,3 +248,6 @@ Give a ⭐️ if you like this project!
 ---
 
 **Happy Coding! 🚀**
+=======
+# Amit_kumar.github.io
+>>>>>>> 2889aa027ba978edb082cc9be2c10c5745b55606
